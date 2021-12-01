@@ -6,7 +6,7 @@
 
 
 - ✍️ Sou acadêmico de Análise e Desenvolvimento de Sistemas, pelo *IFTO*.
-- 🌱 Aspirante as tecnologias: HTML, CSS, JS, PHP, JAVA (WEB), MYSQL e Bootstrap.  
+- 🌱 Aspirante as tecnologias: HTML, CSS, JS, PHP, JAVA (JSP), MYSQL e Bootstrap.  
 - 📖 Sempre buscando adquirir conhecimento.
 - ⚡ Fun fact: Gosto bastante da área de Redes e atualmente atuo nela. 
 
