@@ -13,11 +13,9 @@
 
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="React.js" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt=PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" >
+  <img align="center" alt="MySQL" height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
