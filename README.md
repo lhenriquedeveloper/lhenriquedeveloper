@@ -6,7 +6,7 @@
 
 
 - ✍️ Sou acadêmico de Análise e Desenvolvimento de Sistemas, pelo *IFTO*.
-- 🌱 Aspirante as tecnologias: HTML, CSS(Sass), JS, REACT.JS e Redes de Computadores.  
+- 🌱 Aspirante as tecnologias: HTML, CSS (Sass), JS, REACT.JS e Redes de Computadores.  
 - 📖 Sempre buscando adquirir conhecimento.
 
 
