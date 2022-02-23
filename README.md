@@ -5,9 +5,10 @@
 #### Meu nome é Luis Henrique.
 
 
-- ✍️ Sou acadêmico de Análise e Desenvolvimento de Sistemas, pelo *IFTO*.
-- 🌱 Aspirante as tecnologias: HTML, CSS (Sass), JS, REACT.JS e Redes de Computadores.  
+- ✍️ Acadêmico de Análise e Desenvolvimento de Sistemas pelo *IFTO*.   
 - 📖 Sempre buscando adquirir conhecimento.
+
+🌱
 
 
 
