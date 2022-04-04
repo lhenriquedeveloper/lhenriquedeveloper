@@ -1,13 +1,13 @@
-## Bem vindo(as)! 👋👋
+## Welcome!  👋👋
 
 ![](https://komarev.com/ghpvc/?username=lhenriquedeveloper)
 
-### Meu nome é Luis Henrique.
+### My name is Luis Henrique.
 
-Sou Acadêmico de Análise e Desenvolvimento de Sistemas pelo *IFTO*.   
+I am a Systems Analysis and Development student at *IFTO*.   
 
 
-## Tecnologias e Linguagens que utilizo:
+## Technologies and Languages I use:
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
