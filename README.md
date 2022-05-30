@@ -4,7 +4,7 @@
 
 ### My name is Luis Henrique.
 
-I am a Systems Analysis and Development student at *IFTO*.   
+I am a Systems Analysis and Development student at IFTO || *Front-End Developer*
 
 
 ## Technologies and Languages I use:
