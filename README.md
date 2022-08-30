@@ -15,13 +15,6 @@ I am a Systems Analysis and Development student at IFTO || *Front-End Developer*
   </a>
 </p>
 
-## :page_with_curl: &nbsp;Stats
-
-  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lhenriquedeveloper&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luis Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquedeveloper&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 
  ## 👥 &nbsp;In case you wanted to contact me:
  
