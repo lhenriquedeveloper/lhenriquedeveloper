@@ -15,6 +15,10 @@ I am a Systems Analysis and Development student at IFTO || *Front-End Developer*
   </a>
 </p>
 
+## :memo: &nbsp;Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhenriquedeveloper&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquedeveloper&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) 
 
  ## 👥 &nbsp;In case you wanted to contact me:
  
