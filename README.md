@@ -2,12 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=lhenriquedeveloper)
 
-### My name is Luis Henrique.
 
+### Opa, meu nome é Luis Henrique.
+### My name is Luis Henrique.
+<br>
+Eu sou acadêmico de Análise e Desenvolvimento de Sistemas pelo IFTO || *Front-End Developer* <br><br>
 I am a Systems Analysis and Development student at IFTO || *Front-End Developer*
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias/Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,12 +18,12 @@ I am a Systems Analysis and Development student at IFTO || *Front-End Developer*
   </a>
 </p>
 
-## :memo: &nbsp;Stats
+## :memo: &nbsp;Estatísticas/Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhenriquedeveloper&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquedeveloper&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) 
 
- ## 👥 &nbsp;In case you wanted to contact me:
+ ## 👥 &nbsp;Contatos/Contacts:
  
  <p align="center">
   <a href="https://www.instagram.com/lhenriques24/" alt="Instagram">
