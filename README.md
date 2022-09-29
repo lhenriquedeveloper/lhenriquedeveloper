@@ -4,13 +4,11 @@
 
 
 ### Opa, meu nome é Luis Henrique.
-### My name is Luis Henrique.
 <br>
 Eu sou acadêmico de Análise e Desenvolvimento de Sistemas pelo IFTO || *Front-End Developer* <br><br>
-I am a Systems Analysis and Development student at IFTO || *Front-End Developer*
 
 
-## 🛠 &nbsp;Tecnologias/Tech Stack:
+## 🛠 &nbsp;Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,12 +16,18 @@ I am a Systems Analysis and Development student at IFTO || *Front-End Developer*
   </a>
 </p>
 
-## :memo: &nbsp;Estatísticas/Stats:
+## :memo: &nbsp;Estatísticas:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhenriquedeveloper&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquedeveloper&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lhenriquedeveloper&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimraimi&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
+| ------------- | ------------- |
 
- ## 👥 &nbsp;Contatos/Contacts:
+<!-- ------------------------------- -->
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lhenriquedeveloper&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lhenriquedeveloper&theme=dracula) |
+| ------------- | ------------- |
+<!-- ------------------------------- -->
+
+
+ ## 👥 &nbsp;Contatos:
  
  <p align="center">
   <a href="https://www.instagram.com/lhenriques24/" alt="Instagram">
