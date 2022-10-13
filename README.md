@@ -18,9 +18,6 @@ Eu sou acadêmico de Análise e Desenvolvimento de Sistemas pelo IFTO || *Front-
 
 ## :memo: &nbsp;Estatísticas:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lhenriquedeveloper&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimraimi&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
-| ------------- | ------------- |
-
 <!-- ------------------------------- -->
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lhenriquedeveloper&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lhenriquedeveloper&theme=dracula) |
 | ------------- | ------------- |
