@@ -12,7 +12,7 @@ Sou acadêmico de Análise e Desenvolvimento de Sistemas pelo IFTO || *Front-End
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,nodejs,angular,react,redux,sass,tailwind,bootstrap,figma,vscode,visualstudio,vite,git,github,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,angular,react,redux,sass,tailwind,bootstrap,figma,vscode,vite,git,github,firebase" />
   </a>
 </p>
 
