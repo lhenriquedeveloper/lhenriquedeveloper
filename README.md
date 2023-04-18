@@ -5,7 +5,7 @@
 
 ### Opa, meu nome é Luis Henrique.
 <br>
-Sou graduado em Análise e Desenvolvimento de Sistemas pelo IFTO || *Front-End Developer* <br><br>
+Sou graduado em Análise e Desenvolvimento de Sistemas pelo IFTO || *Software Developer* <br><br>
 
 
 ## 🛠 &nbsp;Tech Stack:
