@@ -12,7 +12,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas pelo IFTO || *Software De
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,angular,react,sass,tailwind,figma,vscode,git,github,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,angular,react,sass,tailwind,figma,vscode,git,github,firebase" />
   </a>
 </p>
 
