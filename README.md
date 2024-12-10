@@ -3,12 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=lhenriquedeveloper)
 
 ### Opa, meu nome é Luis Henrique.
-<i>Entusiasta de novas tecnologias, sempre em busca de aperfeiçoar-se e de adquirir conhecimento.</i><br>
+<i>Sou um entusiasta de novas tecnologias, sempre em busca de aperfeiçoar-se e de adquirir conhecimento.</i><br>
 
  <p align="left">
-  <a href="https://www.instagram.com/lhenrique.dev/" alt="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 
   <a href="https://www.linkedin.com/in/lhenriquedev/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
