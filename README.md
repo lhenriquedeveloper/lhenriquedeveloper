@@ -13,7 +13,7 @@
 
 
 ### Opa, meu nome é Luis Henrique.
-<i>Sou um entusiasta de novas tecnologias, sempre em busca de aperfeiçoar-se e de adquirir conhecimento.</i><br>
+<i>Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário acessíveis, funcionais e agradáveis, que combinam design inteligente com engenharia robusta.</i><br>
 
  <p align="left">
 
