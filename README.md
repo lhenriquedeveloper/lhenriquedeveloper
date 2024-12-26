@@ -28,7 +28,7 @@
 
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,nodejs,angular,react,vue,nextjs,sass,tailwind,bootstrap,php,laravel,figma,vscode,git,gitlab,github,jenkins,firebase,vite,ubuntu,windows,karma,npm" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,nodejs,angular,react,vue,nextjs,flutterflow,sass,tailwind,bootstrap,php,laravel,figma,vscode,git,gitlab,github,jenkins,firebase,vite,ubuntu,windows,karma,npm" />
   </a>
 </p>
 
